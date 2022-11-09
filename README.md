@@ -7,7 +7,7 @@
 
 - 📫 Você me achar através do e-mail **brayan.dados@gmail.com**
 
-- 📄 Minhas experiências e artigos estão no [https://br.linkedin.com/in/amoestudar](https://br.linkedin.com/in/amoestudar)
+- 📄 Minhas experiências e artigos estão no [https://br.linkedin.com/in/amoestudar](https://br.linkedin.com/in/amoestudar) e no [[https://br.linkedin.com/in/amoestudar][(https://br.linkedin.com/in/amoestudar)](http://lattes.cnpq.br/1086930259494336)](http://lattes.cnpq.br/1086930259494336)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
