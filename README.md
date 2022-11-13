@@ -1,4 +1,4 @@
-<h1 align="center">![image](https://user-images.githubusercontent.com/117870948/201502026-e3e0986b-70c3-4450-b115-dddff2097fbc.png)</h1>
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=profBrayan&show_icons=true&locale=en&layout=compact](https://dyn-qrcode.vercel.app/api?url=https://github.com/profBrayan)" alt="profBrayan" /></p>
 
 <h1 align="center">Oi 👋, Eu sou o Brayan seu Professor</h1>
 <h3 align="center">Carreira em Dados</h3>
