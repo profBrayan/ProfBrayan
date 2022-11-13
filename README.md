@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=profBrayan&show_icons=true&locale=en&layout=compact" alt="profBrayan" /></p>
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=profBrayan&show_icons=true&locale=en&layout=compact](https://dyn-qrcode.vercel.app/api?url=https://github.com/profBrayan)" alt="profBrayan" /></p>
 <h1 align="center">Oi 👋, Eu sou o Brayan seu Professor</h1>
 <h3 align="center">Carreira em Dados</h3>
 
