@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/f18dde068c777803ff5170b45dc54617488900b1/qrcode_profBrayan.jpg" alt="profBrayan" /></p>
+<p><align="center" src="https://github.com/profBrayan/ProfBrayan/blob/f18dde068c777803ff5170b45dc54617488900b1/qrcode_profBrayan.jpg" alt="profBrayan" /></p>
 <h1 align="center">Oi 👋, Eu sou o Brayan seu Professor</h1>
 <h3 align="center">Carreira em Dados</h3>
 
