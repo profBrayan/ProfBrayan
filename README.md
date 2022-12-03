@@ -12,6 +12,8 @@
 
 - 📄 Meu Lattes: [http://lattes.cnpq.br/1086930259494336](http://lattes.cnpq.br/1086930259494336)
 
+- 💬 Atendendo e recebendo mensagens via Whatsapp pelo número (62)99350-7979
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://br.linkedin.com/in/amoestudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/amoestudar" height="30" width="40" /></a>
