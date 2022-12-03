@@ -12,7 +12,7 @@
 
 - 📄 Meu Lattes: [http://lattes.cnpq.br/1086930259494336](http://lattes.cnpq.br/1086930259494336)
 
-- 💬 Recebendo mensagens via Whatsapp pelo número [(62)99350-7979](https://api.whatsapp.com/send?phone=62993507979)
+- 💬 Whatsapp: [(62)99350-7979](https://api.whatsapp.com/send?phone=62993507979)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
