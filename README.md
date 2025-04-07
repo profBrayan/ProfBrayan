@@ -1,6 +1,5 @@
 <p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/f18dde068c777803ff5170b45dc54617488900b1/qrcode_profBrayan.jpg" alt="profBrayan" /></p>
 <h1 align="center">Me chamo Brayan e sou seu Professor de Dados</h1>
-<h3 align="center">Carreira em Dados</h3>
 
 - 🌱 Atualmente exercendo **Python, SQL, Microsoft Power Bi, Power Query**
 
@@ -8,7 +7,7 @@
 
 - 📫 Você me achar através do e-mail **brayan.dados@gmail.com**
 
-- 📄 Meu LinkedIn: [https://br.linkedin.com/in/amoestudar](https://br.linkedin.com/in/profbrayan) 
+- 📄 Meu LinkedIn: [https://br.linkedin.com/in/profbrayan](https://br.linkedin.com/in/profbrayan) 
 
 - 📄 Meu Lattes: [http://lattes.cnpq.br/1086930259494336](http://lattes.cnpq.br/1086930259494336)
 
