@@ -2,13 +2,13 @@
 <h1 align="center">Me chamo Brayan e sou seu Professor de Dados</h1>
 <h3 align="center">Carreira em Dados</h3>
 
-- 🌱 Atualmente exercendo **Python, PostgreSQL, Power Bi, Power Arquitect, Power Query**
+- 🌱 Atualmente exercendo **Python, SQL, Microsoft Power Bi, Power Query**
 
-- 👋 Me pergunte sobre **Python, PostgreSQL, Power Bi, Power Query**
+- 👋 Me pergunte sobre **Python, SQL, Microsoft Power Bi, Power Query**
 
 - 📫 Você me achar através do e-mail **brayan.dados@gmail.com**
 
-- 📄 Meu LinkedIn: [https://br.linkedin.com/in/amoestudar](https://br.linkedin.com/in/amoestudar) 
+- 📄 Meu LinkedIn: [https://br.linkedin.com/in/amoestudar](https://br.linkedin.com/in/profbrayan) 
 
 - 📄 Meu Lattes: [http://lattes.cnpq.br/1086930259494336](http://lattes.cnpq.br/1086930259494336)
 
