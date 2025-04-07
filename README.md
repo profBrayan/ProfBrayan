@@ -1,11 +1,5 @@
-<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/f18dde068c777803ff5170b45dc54617488900b1/qrcode_profBrayan.jpg" alt="profBrayan" /></p>
-<h1 align="center">Me chamo Brayan e Trabalho com Dados</h1>
 
-- 🌱 Atualmente exercendo **Python, SQL, Microsoft Power Bi, Power Query**
-
-- 👋 Me pergunte sobre **Python, SQL, Microsoft Power Bi, Power Query**
-
-- 📫 Você me achar através do e-mail **brayan.dados@gmail.com**
+<h1 align="center">Me chamo Brayan e este é o meu portfólio</h1>
 
 - 📄 Meu LinkedIn: [https://br.linkedin.com/in/profbrayan](https://br.linkedin.com/in/profbrayan) 
 
@@ -13,13 +7,7 @@
 
 - 💬 Whatsapp: [(62)99350-7979](https://api.whatsapp.com/send?phone=62993507979)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://br.linkedin.com/in/amoestudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/amoestudar" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h1 align="center">PORTFÓLIO</h1>
 
@@ -49,4 +37,12 @@
 <p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Recebimentos.jpg" alt="profBrayan" /></p>
 <p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Relat%C3%B3rio%20Contas%20a%20Receber.jpg" alt="profBrayan" /></p>
 
+<h3 align="center">BI - Hotéis</h3>
+<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Apartamentos%20por%20Hotel.jpeg" alt="profBrayan" /></p>
+<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Di%C3%A1ria%20M%C3%A9dia%20por%20Hot%C3%A9is.jpeg" alt="profBrayan" /></p>
+<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Performance%20por%20Hot%C3%A9is.jpeg" alt="profBrayan" /></p>
+<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Receitas%20por%20Hot%C3%A9is.jpeg" alt="profBrayan" /></p>
+<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Performance%20por%20Hot%C3%A9is.jpeg" alt="profBrayan" /></p>
 
+<h3 align="center">BI - Projetos</h3>
+<p><img align="center" src="https://github.com/profBrayan/ProfBrayan/blob/main/BI%20-%20Projetos%20e%20Produtos.jpeg" alt="profBrayan" /></p>
